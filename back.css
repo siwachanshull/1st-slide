@@ -1,0 +1,21 @@
+p{
+    font-family: Tilt Warp, Arial;
+}
+   
+body{
+    background-image: url('images/back1.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.heading{
+    font-size: 50px;
+    font-style: normal;
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    width: 600px;
+    line-height: 40px;
+    color: white;
+}
